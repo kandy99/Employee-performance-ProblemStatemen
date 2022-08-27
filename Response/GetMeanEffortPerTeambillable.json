@@ -1,0 +1,712 @@
+[
+  {
+    "Team": "Design",
+    "Project Name": "AAA ",
+    "Efforts": 3.9722222222222223
+  },
+  {
+    "Team": "Dev",
+    "Project Name": "BBB",
+    "Efforts": 5.869565217391305
+  },
+  {
+    "Team": "PM",
+    "Project Name": "CCC",
+    "Efforts": 0.6092857142857143
+  },
+  {
+    "Team": "Dev",
+    "Project Name": "CCC",
+    "Efforts": 3.5517241379310347
+  },
+  {
+    "Team": "QA",
+    "Project Name": "CCC",
+    "Efforts": 1.0
+  },
+  {
+    "Team": "Design",
+    "Project Name": "CCC",
+    "Efforts": 4.0
+  },
+  {
+    "Team": "Dev",
+    "Project Name": "DDD",
+    "Efforts": 3.9606060606060605
+  },
+  {
+    "Team": "PM",
+    "Project Name": "DDD",
+    "Efforts": 1.458659793814433
+  },
+  {
+    "Team": "QA",
+    "Project Name": "DDD",
+    "Efforts": 1.0
+  },
+  {
+    "Team": "Design",
+    "Project Name": "DDD",
+    "Efforts": 2.621794871794872
+  },
+  {
+    "Team": "Design",
+    "Project Name": "EEE",
+    "Efforts": 4.583333333333333
+  },
+  {
+    "Team": "Dev",
+    "Project Name": "EEE",
+    "Efforts": 4.188
+  },
+  {
+    "Team": "QA",
+    "Project Name": "EEE",
+    "Efforts": 2.7641666666666667
+  },
+  {
+    "Team": "Dev",
+    "Project Name": "FFF",
+    "Efforts": 6.468333333333334
+  },
+  {
+    "Team": "QA",
+    "Project Name": "FFF",
+    "Efforts": 3.411764705882353
+  },
+  {
+    "Team": "Design",
+    "Project Name": "FFF",
+    "Efforts": 4.833333333333333
+  },
+  {
+    "Team": "Dev",
+    "Project Name": "GGG",
+    "Efforts": 2.93355172413793
+  },
+  {
+    "Team": "PM",
+    "Project Name": "GGG",
+    "Efforts": 2.0531623931623932
+  },
+  {
+    "Team": "Design",
+    "Project Name": "GGG",
+    "Efforts": 2.8425925925925926
+  },
+  {
+    "Team": "QA",
+    "Project Name": "GGG",
+    "Efforts": 2.301428571428571
+  },
+  {
+    "Team": "Dev",
+    "Project Name": "HHH",
+    "Efforts": 3.35
+  },
+  {
+    "Team": "QA",
+    "Project Name": "HHH",
+    "Efforts": 1.9285714285714286
+  },
+  {
+    "Team": "Design",
+    "Project Name": "HHH",
+    "Efforts": 5.639285714285714
+  },
+  {
+    "Team": "Dev",
+    "Project Name": "III",
+    "Efforts": 4.25
+  },
+  {
+    "Team": "Design",
+    "Project Name": "III",
+    "Efforts": 3.8333333333333335
+  },
+  {
+    "Team": "PM",
+    "Project Name": "JJJ",
+    "Efforts": 1.470894568690096
+  },
+  {
+    "Team": "Design",
+    "Project Name": "JJJ",
+    "Efforts": 5.414893617021277
+  },
+  {
+    "Team": "Dev",
+    "Project Name": "JJJ",
+    "Efforts": 2.5
+  },
+  {
+    "Team": "Design",
+    "Project Name": "KKK",
+    "Efforts": 4.5625
+  },
+  {
+    "Team": "Dev",
+    "Project Name": "KKK",
+    "Efforts": 2.2222222222222223
+  },
+  {
+    "Team": "Dev",
+    "Project Name": "LLL",
+    "Efforts": 2.272727272727273
+  },
+  {
+    "Team": "Design",
+    "Project Name": "LLL",
+    "Efforts": 1.0
+  },
+  {
+    "Team": "Dev",
+    "Project Name": "MMM",
+    "Efforts": 2.3798765432098765
+  },
+  {
+    "Team": "Dev",
+    "Project Name": "NNN",
+    "Efforts": 2.6749487179487175
+  },
+  {
+    "Team": "Design",
+    "Project Name": "NNN",
+    "Efforts": 4.0576923076923075
+  },
+  {
+    "Team": "PM",
+    "Project Name": "NNN",
+    "Efforts": 2.8333333333333335
+  },
+  {
+    "Team": "Dev",
+    "Project Name": "OOO",
+    "Efforts": 2.2358071278825995
+  },
+  {
+    "Team": "Design",
+    "Project Name": "OOO",
+    "Efforts": 3.0773584905660383
+  },
+  {
+    "Team": "PM",
+    "Project Name": "OOO",
+    "Efforts": 1.1065625
+  },
+  {
+    "Team": "Design",
+    "Project Name": "PPP",
+    "Efforts": 5.166666666666667
+  },
+  {
+    "Team": "Dev",
+    "Project Name": "PPP",
+    "Efforts": 2.5
+  },
+  {
+    "Team": "QA",
+    "Project Name": "PPP",
+    "Efforts": 2.3333333333333335
+  },
+  {
+    "Team": "QA",
+    "Project Name": "QQQ",
+    "Efforts": 7.202000000000002
+  },
+  {
+    "Team": "PM",
+    "Project Name": "QQQ",
+    "Efforts": 1.5908080808080802
+  },
+  {
+    "Team": "Dev",
+    "Project Name": "QQQ",
+    "Efforts": 3.4686684782608728
+  },
+  {
+    "Team": "Design",
+    "Project Name": "QQQ",
+    "Efforts": 3.978
+  },
+  {
+    "Team": "Dev",
+    "Project Name": "RRR",
+    "Efforts": 3.934510385756676
+  },
+  {
+    "Team": "Design",
+    "Project Name": "RRR",
+    "Efforts": 3.869206349206349
+  },
+  {
+    "Team": "QA",
+    "Project Name": "RRR",
+    "Efforts": 5.0484
+  },
+  {
+    "Team": "PM",
+    "Project Name": "RRR",
+    "Efforts": 2.033529411764706
+  },
+  {
+    "Team": "PM",
+    "Project Name": "SSS",
+    "Efforts": 1.7127659574468086
+  },
+  {
+    "Team": "Design",
+    "Project Name": "SSS",
+    "Efforts": 5.03125
+  },
+  {
+    "Team": "PM",
+    "Project Name": "TTT",
+    "Efforts": 0.9336585365853662
+  },
+  {
+    "Team": "QA",
+    "Project Name": "TTT",
+    "Efforts": 2.2133333333333334
+  },
+  {
+    "Team": "Dev",
+    "Project Name": "TTT",
+    "Efforts": 2.4119999999999995
+  },
+  {
+    "Team": "Design",
+    "Project Name": "TTT",
+    "Efforts": 4.377692307692308
+  },
+  {
+    "Team": "QA",
+    "Project Name": "UUU",
+    "Efforts": 2.1742424242424243
+  },
+  {
+    "Team": "Design",
+    "Project Name": "UUU",
+    "Efforts": 1.8876190476190475
+  },
+  {
+    "Team": "Dev",
+    "Project Name": "UUU",
+    "Efforts": 2.41584
+  },
+  {
+    "Team": "Design",
+    "Project Name": "VVV",
+    "Efforts": 4.9765625
+  },
+  {
+    "Team": "PM",
+    "Project Name": "VVV",
+    "Efforts": 1.1666666666666667
+  },
+  {
+    "Team": "Dev",
+    "Project Name": "WWW",
+    "Efforts": 2.928137931034482
+  },
+  {
+    "Team": "Design",
+    "Project Name": "WWW",
+    "Efforts": 2.6666666666666665
+  },
+  {
+    "Team": "PM",
+    "Project Name": "WWW",
+    "Efforts": 0.8095238095238095
+  },
+  {
+    "Team": "Design",
+    "Project Name": "XXX",
+    "Efforts": 3.3200000000000003
+  },
+  {
+    "Team": "Dev",
+    "Project Name": "XXX",
+    "Efforts": 3.75
+  },
+  {
+    "Team": "Dev",
+    "Project Name": "YYY",
+    "Efforts": 3.5680851063829784
+  },
+  {
+    "Team": "PM",
+    "Project Name": "YYY",
+    "Efforts": 1.223181818181818
+  },
+  {
+    "Team": "PM",
+    "Project Name": "ZZZ",
+    "Efforts": 2.7205882352941178
+  },
+  {
+    "Team": "Design",
+    "Project Name": "ZZZ",
+    "Efforts": 4.833333333333333
+  },
+  {
+    "Team": "Design",
+    "Project Name": "AA1",
+    "Efforts": 5.354038461538461
+  },
+  {
+    "Team": "PM",
+    "Project Name": "AA1",
+    "Efforts": 2.3038297872340427
+  },
+  {
+    "Team": "Dev",
+    "Project Name": "AA1",
+    "Efforts": 3.2571206225680935
+  },
+  {
+    "Team": "QA",
+    "Project Name": "BB1",
+    "Efforts": 3.625
+  },
+  {
+    "Team": "Dev",
+    "Project Name": "BB1",
+    "Efforts": 4.800610932475884
+  },
+  {
+    "Team": "Design",
+    "Project Name": "BB1",
+    "Efforts": 4.297777777777777
+  },
+  {
+    "Team": "QA",
+    "Project Name": "CC1",
+    "Efforts": 2.475714285714286
+  },
+  {
+    "Team": "PM",
+    "Project Name": "CC1",
+    "Efforts": 0.9742307692307691
+  },
+  {
+    "Team": "Dev",
+    "Project Name": "CC1",
+    "Efforts": 2.67972972972973
+  },
+  {
+    "Team": "Design",
+    "Project Name": "CC1",
+    "Efforts": 3.7708333333333335
+  },
+  {
+    "Team": "Dev",
+    "Project Name": "DD1",
+    "Efforts": 3.4357142857142855
+  },
+  {
+    "Team": "PM",
+    "Project Name": "DD1",
+    "Efforts": 1.671875
+  },
+  {
+    "Team": "QA",
+    "Project Name": "DD1",
+    "Efforts": 3.96875
+  },
+  {
+    "Team": "Design",
+    "Project Name": "DD1",
+    "Efforts": 2.02
+  },
+  {
+    "Team": "QA",
+    "Project Name": "EE1",
+    "Efforts": 4.829354838709678
+  },
+  {
+    "Team": "Dev",
+    "Project Name": "EE1",
+    "Efforts": 3.740262582056892
+  },
+  {
+    "Team": "PM",
+    "Project Name": "EE1",
+    "Efforts": 1.151764705882353
+  },
+  {
+    "Team": "QA",
+    "Project Name": "FF1",
+    "Efforts": 4.489962406015038
+  },
+  {
+    "Team": "Dev",
+    "Project Name": "FF1",
+    "Efforts": 4.581081081081081
+  },
+  {
+    "Team": "Design",
+    "Project Name": "FF1",
+    "Efforts": 5.71875
+  },
+  {
+    "Team": "Design",
+    "Project Name": "GG1",
+    "Efforts": 2.205454545454545
+  },
+  {
+    "Team": "Dev",
+    "Project Name": "GG1",
+    "Efforts": 3.45
+  },
+  {
+    "Team": "Dev",
+    "Project Name": "HH1",
+    "Efforts": 3.52107843137255
+  },
+  {
+    "Team": "PM",
+    "Project Name": "HH1",
+    "Efforts": 1.0001351351351353
+  },
+  {
+    "Team": "Design",
+    "Project Name": "HH1",
+    "Efforts": 2.8783783783783785
+  },
+  {
+    "Team": "QA",
+    "Project Name": "HH1",
+    "Efforts": 2.0
+  },
+  {
+    "Team": "QA",
+    "Project Name": "II1",
+    "Efforts": 6.795911949685534
+  },
+  {
+    "Team": "Dev",
+    "Project Name": "II1",
+    "Efforts": 4.060343137254901
+  },
+  {
+    "Team": "Design",
+    "Project Name": "II1",
+    "Efforts": 2.9466666666666668
+  },
+  {
+    "Team": "PM",
+    "Project Name": "II1",
+    "Efforts": 2.227717391304348
+  },
+  {
+    "Team": "Dev",
+    "Project Name": "JJ1",
+    "Efforts": 2.8454545454545452
+  },
+  {
+    "Team": "PM",
+    "Project Name": "JJ1",
+    "Efforts": 1.3755384615384614
+  },
+  {
+    "Team": "Design",
+    "Project Name": "JJ1",
+    "Efforts": 5.277777777777778
+  },
+  {
+    "Team": "Dev",
+    "Project Name": "KK1",
+    "Efforts": 5.976190476190476
+  },
+  {
+    "Team": "Design",
+    "Project Name": "KK1",
+    "Efforts": 1.5
+  },
+  {
+    "Team": "Dev",
+    "Project Name": "LL1",
+    "Efforts": 3.3997761194029845
+  },
+  {
+    "Team": "Design",
+    "Project Name": "LL1",
+    "Efforts": 2.3510526315789475
+  },
+  {
+    "Team": "PM",
+    "Project Name": "LL1",
+    "Efforts": 0.5446153846153846
+  },
+  {
+    "Team": "Design",
+    "Project Name": "MM1",
+    "Efforts": 5.335365853658536
+  },
+  {
+    "Team": "PM",
+    "Project Name": "MM1",
+    "Efforts": 1.8450000000000002
+  },
+  {
+    "Team": "Dev",
+    "Project Name": "NN1",
+    "Efforts": 5.198198198198198
+  },
+  {
+    "Team": "PM",
+    "Project Name": "OO1",
+    "Efforts": 3.0558333333333336
+  },
+  {
+    "Team": "Design",
+    "Project Name": "PP1",
+    "Efforts": 2.8476068376068375
+  },
+  {
+    "Team": "Dev",
+    "Project Name": "PP1",
+    "Efforts": 1.9885990338164246
+  },
+  {
+    "Team": "PM",
+    "Project Name": "PP1",
+    "Efforts": 2.4936000000000003
+  },
+  {
+    "Team": "QA",
+    "Project Name": "PP1",
+    "Efforts": 1.9423076923076923
+  },
+  {
+    "Team": "Design",
+    "Project Name": "QQ1",
+    "Efforts": 5.69917808219178
+  },
+  {
+    "Team": "Dev",
+    "Project Name": "RR1",
+    "Efforts": 2.0665979381443305
+  },
+  {
+    "Team": "Dev",
+    "Project Name": "SS1",
+    "Efforts": 3.6101863354037267
+  },
+  {
+    "Team": "Dev",
+    "Project Name": "TT1",
+    "Efforts": 3.7778274760383415
+  },
+  {
+    "Team": "PM",
+    "Project Name": "TT1",
+    "Efforts": 1.2901851851851853
+  },
+  {
+    "Team": "Design",
+    "Project Name": "TT1",
+    "Efforts": 4.735294117647059
+  },
+  {
+    "Team": "QA",
+    "Project Name": "TT1",
+    "Efforts": 1.625
+  },
+  {
+    "Team": "Dev",
+    "Project Name": "UU1",
+    "Efforts": 3.083935483870967
+  },
+  {
+    "Team": "Design",
+    "Project Name": "UU1",
+    "Efforts": 4.859065420560747
+  },
+  {
+    "Team": "QA",
+    "Project Name": "UU1",
+    "Efforts": 8.428571428571429
+  },
+  {
+    "Team": "PM",
+    "Project Name": "UU1",
+    "Efforts": 1.25
+  },
+  {
+    "Team": "Design",
+    "Project Name": "VV1",
+    "Efforts": 5.892045454545454
+  },
+  {
+    "Team": "Design",
+    "Project Name": "WW1",
+    "Efforts": 8.652173913043478
+  },
+  {
+    "Team": "PM",
+    "Project Name": "WW1",
+    "Efforts": 4.535
+  },
+  {
+    "Team": "PM",
+    "Project Name": "XX1",
+    "Efforts": 1.0
+  },
+  {
+    "Team": "QA",
+    "Project Name": "XX1",
+    "Efforts": 8.00952380952381
+  },
+  {
+    "Team": "Dev",
+    "Project Name": "XX1",
+    "Efforts": 8.444444444444445
+  },
+  {
+    "Team": "Design",
+    "Project Name": "YY1",
+    "Efforts": 4.75421052631579
+  },
+  {
+    "Team": "Dev",
+    "Project Name": "ZZ1",
+    "Efforts": 1.617777777777778
+  },
+  {
+    "Team": "QA",
+    "Project Name": "ZZ1",
+    "Efforts": 3.8225
+  },
+  {
+    "Team": "QA",
+    "Project Name": "AA2",
+    "Efforts": 6.5
+  },
+  {
+    "Team": "Dev",
+    "Project Name": "AA2",
+    "Efforts": 2.0377358490566038
+  },
+  {
+    "Team": "Design",
+    "Project Name": "AA2",
+    "Efforts": 5.29
+  },
+  {
+    "Team": "Dev",
+    "Project Name": "BB2",
+    "Efforts": 3.5860000000000003
+  },
+  {
+    "Team": "QA",
+    "Project Name": "BB2",
+    "Efforts": 1.25
+  },
+  {
+    "Team": "Dev",
+    "Project Name": "CC2",
+    "Efforts": 2.26
+  }
+]
